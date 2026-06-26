@@ -200,7 +200,7 @@ pip install tensorflow gradio scikit-learn pandas numpy matplotlib seaborn
 ### Running the Notebook
 
 1. Clone or download this repository.
-2. Open `EST_PROJECT.ipynb` in Jupyter Notebook, JupyterLab, or upload to Google Colab (recommended — uses T4 GPU).
+2. Open `PROJECT.ipynb` in Jupyter Notebook, JupyterLab, or upload to Google Colab (recommended — uses T4 GPU).
 3. Run cells sequentially from Cell 1 to Cell 16.
 4. The dataset is downloaded automatically in Cell 2.
 5. The Gradio dashboard (Cell 14) will generate a public share link accessible in any browser.
